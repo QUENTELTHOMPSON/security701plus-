@@ -1,0 +1,22 @@
+A questionnaire A risk assessment questionnaire is a tool that helps organizations identify and assess potential risks associated with a third-party vendor, partner, or new employee. These questionnaires are also known as vendor risk assessment questionnaires, third-party risk assessment questionnaires, or supplier risk assessment questionnaires. 
+Risk assessment questionnaires are typically organized into sections such as: Information security and privacy, Physical and data center security, Web application security, and Infrastructure security. 
+Questionnaires are usually completed yearly after onboarding, but they only provide a snapshot of a vendor's cybersecurity posture. The risk posed by a vendor can change at any time, so organizations should also monitor risk continuously using tools such as security ratings. 
+Here are some topics that risk assessment questionnaires may cover:
+Organizational risk culture, Risk appetite, Oversight mechanisms, Contingency planning, Financial controls, Compliance issues, Communication climate, Staff turnover, Safety measures, and IT systems reliability. 
+
+rules of engagement-ROE are guidelines that outline the specifics of a penetration testing project.They are established before the start of a security test and give the test team the authority to conduct their activities without needing additional permissions.
+The ROE ensure that both the client and the engineers know what, when, and how the testing will be done. 
+
+penetration testing-is a critical part of risk assessment for cybersecurity. Penetration testing, or pen testing, is a security checkup that simulates a real-world attack to identify weaknesses in an organization's IT infrastructure. 
+The results of a penetration test can help an organization understand the potential damage of a successful attack and how to mitigate cybersecurity risks.Penetration testingA friendly hacker attempts to gain access to an organization's network to identify vulnerabilities.
+Penetration testing can help organizations understand how easy it is to bypass security protocols and what data could be accessed in a data breach. 
+
+right-to-audit clause-is a contract term that allows a purchasing party to assess a vendor's performance and compliance with the agreement. Risk assessments and management can help ensure that a right-to-audit clause is used effectively to mitigate risk
+
+Evidence of internal audits-is information and documentation that auditors gather to support their conclusions and opinions about an organization's internal controls and financial statements. This evidence can come from a variety of sources, including:
+Documentary evidence: Written records such as invoices, contracts, bank statements, and receipts
+Internal documentation: Organizational policies, meeting minutes, accounting manuals, and internal reports
+External confirmations: Confirmations with third parties, such as banks, customers, and suppliers
+Physical examination: Inspection of tangible assets, such as inventory, property, and plant
+Oral evidence: Information obtained from employees or management
+Analytical procedures: Comparison of financial statements, ratios, trends, and benchmarks to identify unusual fluctuations. 
