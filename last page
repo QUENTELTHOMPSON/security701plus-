@@ -1,0 +1,8 @@
+A questionnaire A risk assessment questionnaire is a tool that helps organizations identify and assess potential risks associated with a third-party vendor, partner, or new employee. These questionnaires are also known as vendor risk assessment questionnaires, third-party risk assessment questionnaires, or supplier risk assessment questionnaires. 
+Risk assessment questionnaires are typically organized into sections such as: Information security and privacy, Physical and data center security, Web application security, and Infrastructure security. 
+Questionnaires are usually completed yearly after onboarding, but they only provide a snapshot of a vendor's cybersecurity posture. The risk posed by a vendor can change at any time, so organizations should also monitor risk continuously using tools such as security ratings. 
+Here are some topics that risk assessment questionnaires may cover:
+Organizational risk culture, Risk appetite, Oversight mechanisms, Contingency planning, Financial controls, Compliance issues, Communication climate, Staff turnover, Safety measures, and IT systems reliability. 
+
+rules of engagement-ROE are guidelines that outline the specifics of a penetration testing project.They are established before the start of a security test and give the test team the authority to conduct their activities without needing additional permissions.
+The ROE ensure that both the client and the engineers know what, when, and how the testing will be done. 
