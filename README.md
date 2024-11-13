@@ -70,3 +70,38 @@ Collaborating
 When two companies are collaborating on a project, they may use an NDA to protect each other's confidential information 
 NDAs can also be used to protect the ability to patent an invention. If an invention is disclosed publicly, it may be compromised. 
 
+#### Business partner agreement-BPA a document created to govern a general partnership arrangement between individuals or entities. It outlines the terms and conditions of the partnership, including each partner's rights, responsibilities, and profit-sharing arrangements.
+ There are several types of partnership agreements, including: 
+General partnership agreement
+This is the most common type of partnership agreement, where all partners share profits, losses, and liabilities equally. 
+Limited partnership agreement
+This type of agreement protects partners who contribute less capital or assets by limiting their liability. 
+Limited liability partnership agreement
+This agreement combines elements of general partnerships and corporations, and protects partners from malpractice or negligence claims. 
+Joint venture agreement
+This is a temporary partnership between two or more parties for a specific project or business venture. 
+Silent partnership agreement
+In this type of agreement, one or more partners contribute capital but don't participate in decision-making. 
+A partnership agreement can help with risk management by:
+Defining roles and responsibilities
+The agreement can outline each partner's contributions, responsibilities, and decision-making authority. 
+Addressing what happens if a partner dies or becomes disabled
+The agreement can include provisions for buyout rights or transferring the partner's interest to a successor. 
+Establishing decision-making processes
+The agreement can outline voting methods and who has the authority to sign contracts. 
+Requiring unanimous consent for certain decisions
+Some decisions may involve significant risk, so the agreement may require all partners to consent. 
+
+### vendor mentoring agreement-VDA  is a contract that outlines the roles, responsibilities, and expectations of a mentor and a protégé. It can help to strengthen the relationship between the two parties by ensuring that they are both invested in the experience. 
+Meeting schedule
+An agreement on where, when, and how often the mentor and protégé will meet 
+Length of the relationship
+A fixed period for the mentoring relationship, with the option to extend it if needed 
+Confidentiality
+An agreement to keep information shared during the mentoring relationship private 
+Communication
+An agreement to communicate openly and honestly, and to exchange feedback in a respectful way 
+Line manager
+An agreement to keep the line manager informed about the progress of the mentoring relationship 
+Termination
+A procedure for how the mentor can voluntarily withdraw from the agreement, including written notice to the protégé at least 30 days in advance
