@@ -38,14 +38,14 @@ Timeframe for activities
 Communication protocols 
 Expected deliverables
    
-###### Master Service Agreement-MSA is a legal contract that establishes the fundamental terms and conditions between two parties for an ongoing business relationship. 
+##### Master Service Agreement-MSA is a legal contract that establishes the fundamental terms and conditions between two parties for an ongoing business relationship. 
 outlining the expectations and responsibilities for current and future projects, essentially simplifying the negotiation process for subsequent contracts by setting the basic framework upfront.
 Purpose:
 To streamline future transactions by pre-defining key terms like payment schedules, confidentiality, delivery timelines, dispute resolution methods, and more, so parties don't have to renegotiate these aspects for every new project.
 When to use:
 When a company anticipates a long-term business relationship with another entity and wants to establish a clear set of guidelines for future interactions.
 
- ### statement of work-SOW is a legally binding agreement that outlines the details of a project, including deliverables, timeline, and costs. There are three main types of SOWs: Design/detail SOW, Level of effort SOW, and Performance SOW. 
+ ## statement of work-SOW is a legally binding agreement that outlines the details of a project, including deliverables, timeline, and costs. There are three main types of SOWs: Design/detail SOW, Level of effort SOW, and Performance SOW. 
 Elements of an SOW can include:
 Purpose of the project
 Scope of work being performed
@@ -70,7 +70,7 @@ Collaborating
 When two companies are collaborating on a project, they may use an NDA to protect each other's confidential information 
 NDAs can also be used to protect the ability to patent an invention. If an invention is disclosed publicly, it may be compromised. 
 
-#### Business partner agreement-BPA a document created to govern a general partnership arrangement between individuals or entities. It outlines the terms and conditions of the partnership, including each partner's rights, responsibilities, and profit-sharing arrangements.
+## Business partner agreement-BPA a document created to govern a general partnership arrangement between individuals or entities. It outlines the terms and conditions of the partnership, including each partner's rights, responsibilities, and profit-sharing arrangements.
  There are several types of partnership agreements, including: 
 General partnership agreement
 This is the most common type of partnership agreement, where all partners share profits, losses, and liabilities equally. 
@@ -92,7 +92,7 @@ The agreement can outline voting methods and who has the authority to sign contr
 Requiring unanimous consent for certain decisions
 Some decisions may involve significant risk, so the agreement may require all partners to consent. 
 
-### vendor mentoring agreement-VDA  is a contract that outlines the roles, responsibilities, and expectations of a mentor and a protégé. It can help to strengthen the relationship between the two parties by ensuring that they are both invested in the experience. 
+## vendor mentoring agreement-VDA  is a contract that outlines the roles, responsibilities, and expectations of a mentor and a protégé. It can help to strengthen the relationship between the two parties by ensuring that they are both invested in the experience. 
 Meeting schedule
 An agreement on where, when, and how often the mentor and protégé will meet 
 Length of the relationship
@@ -105,3 +105,26 @@ Line manager
 An agreement to keep the line manager informed about the progress of the mentoring relationship 
 Termination
 A procedure for how the mentor can voluntarily withdraw from the agreement, including written notice to the protégé at least 30 days in advance
+
+## questionnaire- A risk assessment questionnaire is a tool that helps organizations identify and assess potential risks associated with a third-party vendor, partner, or new employee. These questionnaires are also known as vendor risk assessment questionnaires, third-party risk assessment questionnaires, or supplier risk assessment questionnaires. 
+Risk assessment questionnaires are typically organized into sections such as: Information security and privacy, Physical and data center security, Web application security, and Infrastructure security. 
+Questionnaires are usually completed yearly after onboarding, but they only provide a snapshot of a vendor's cybersecurity posture. The risk posed by a vendor can change at any time, so organizations should also monitor risk continuously using tools such as security ratings. 
+Here are some topics that risk assessment questionnaires may cover:
+Organizational risk culture, Risk appetite, Oversight mechanisms, Contingency planning, Financial controls, Compliance issues, Communication climate, Staff turnover, Safety measures, and IT systems reliability. 
+
+## rules of engagement-ROE are guidelines that outline the specifics of a penetration testing project.They are established before the start of a security test and give the test team the authority to conduct their activities without needing additional permissions.
+The ROE ensure that both the client and the engineers know what, when, and how the testing will be done. 
+
+penetration testing-is a critical part of risk assessment for cybersecurity. Penetration testing, or pen testing, is a security checkup that simulates a real-world attack to identify weaknesses in an organization's IT infrastructure. 
+The results of a penetration test can help an organization understand the potential damage of a successful attack and how to mitigate cybersecurity risks.Penetration testingA friendly hacker attempts to gain access to an organization's network to identify vulnerabilities.
+Penetration testing can help organizations understand how easy it is to bypass security protocols and what data could be accessed in a data breach. 
+
+## right-to-audit clause-is a contract term that allows a purchasing party to assess a vendor's performance and compliance with the agreement. Risk assessments and management can help ensure that a right-to-audit clause is used effectively to mitigate risk
+
+Evidence of internal audits-is information and documentation that auditors gather to support their conclusions and opinions about an organization's internal controls and financial statements. This evidence can come from a variety of sources, including:
+Documentary evidence: Written records such as invoices, contracts, bank statements, and receipts
+Internal documentation: Organizational policies, meeting minutes, accounting manuals, and internal reports
+External confirmations: Confirmations with third parties, such as banks, customers, and suppliers
+Physical examination: Inspection of tangible assets, such as inventory, property, and plant
+Oral evidence: Information obtained from employees or management
+Analytical procedures: Comparison of financial statements, ratios, trends, and benchmarks to identify unusual fluctuations. 
