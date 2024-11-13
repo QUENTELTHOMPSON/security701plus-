@@ -137,8 +137,7 @@ Analytical procedures: Comparison of financial statements, ratios, trends, and b
 
 ### A Independent Assessment- is a thorough analysis of a business or system to identify potential risks and recommend ways to mitigate them
 
-## Supply chain Analysis- is the process of evaluating a company's supply chain to identify areas for improvement and reduce costs. 
-It involves collecting and analyzing data from multiple systems to gain insights into the procurement, processing, and distribution of goods. 
+## Supply chain Analysis- is the process of evaluating a company's supply chain to identify areas for improvement and reduce costs. It involves collecting and analyzing data from multiple systems to gain insights into the procurement, processing, and distribution of goods. 
 
 ## Due Diligence- A comprehensive assessment of a business, investment, or transaction to identify potential risks and make informed decisions. It can include reviewing a business's financial statements, assets, liabilities, and work processes. 
 Here are some examples of how due diligence and risk assessment are used in different contexts:Supply chain management
