@@ -45,7 +45,8 @@ To streamline future transactions by pre-defining key terms like payment schedul
 When to use:
 When a company anticipates a long-term business relationship with another entity and wants to establish a clear set of guidelines for future interactions.
 
- ## statement of work-SOW is a legally binding agreement that outlines the details of a project, including deliverables, timeline, and costs. There are three main types of SOWs: Design/detail SOW, Level of effort SOW, and Performance SOW. 
+ ## statement of work-SOW is a legally binding agreement that outlines the details of a project, including deliverables, timeline, and costs. 
+ #### There are three main types of SOWs: Design/detail SOW, Level of effort SOW, and Performance SOW. 
 Elements of an SOW can include:
 Purpose of the project
 Scope of work being performed
