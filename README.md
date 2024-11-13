@@ -38,14 +38,14 @@ Timeframe for activities
 Communication protocols 
 Expected deliverables
    
-####### Master Service Agreement-MSA is a legal contract that establishes the fundamental terms and conditions between two parties for an ongoing business relationship. 
+###### Master Service Agreement-MSA is a legal contract that establishes the fundamental terms and conditions between two parties for an ongoing business relationship. 
 outlining the expectations and responsibilities for current and future projects, essentially simplifying the negotiation process for subsequent contracts by setting the basic framework upfront.
 Purpose:
 To streamline future transactions by pre-defining key terms like payment schedules, confidentiality, delivery timelines, dispute resolution methods, and more, so parties don't have to renegotiate these aspects for every new project.
 When to use:
 When a company anticipates a long-term business relationship with another entity and wants to establish a clear set of guidelines for future interactions.
 
-######## A statement of work-SOW is a legally binding agreement that outlines the details of a project, including deliverables, timeline, and costs. There are three main types of SOWs: Design/detail SOW, Level of effort SOW, and Performance SOW. 
+ ### statement of work-SOW is a legally binding agreement that outlines the details of a project, including deliverables, timeline, and costs. There are three main types of SOWs: Design/detail SOW, Level of effort SOW, and Performance SOW. 
 Elements of an SOW can include:
 Purpose of the project
 Scope of work being performed
@@ -55,7 +55,7 @@ Acceptance criteria
 Any hardware and software required
 Performance-based standards to be met
 
-######### Non-Disclosure Agreements-(NDAs) can be categorized into three types based on who signs them: unilateral, bilateral, and multilateral. 
+### Non-Disclosure Agreements-(NDAs) can be categorized into three types based on who signs them: unilateral, bilateral, and multilateral. 
 Unilateral: A one-way agreement where only one party discloses confidential information 
 Bilateral: A two-way agreement where both parties exchange confidential information 
 Multilateral: A multi-party agreement where multiple parties disclose confidential information. NDAs are legal contracts that outline how confidential information can be shared and used.
