@@ -1,7 +1,7 @@
 # 5.3 Explain the processes associated with third-party risk assessment and management 
-## explain the processes associated with third party risk assessment and management
+### explain the processes associated with third party risk assessment and management
 
-### agreement types-SLA,MOA,MOU,MSA,SOW,NDA,BPA,VMA
+## agreement types-SLA,MOA,MOU,MSA,SOW,NDA,BPA,VMA
 
 #### service-level agreement-SLA provide a legally binding document that outlines the expectations of both parties and the consequences if those expectations are not met.SLAs can help to improve customer experience by managing expectations and providing a safety net for customers.
 
@@ -11,7 +11,7 @@ The points of contact for end-user problems
 The metrics used to monitor and approve the effectiveness of the process 
 The procedures for compensating customers if the service provider fails to meet their obligations 
 
-##### Memorandum of Agreement-MOA is a written document that outlines a partnership between two or more parties to work together on a project or objective.
+## Memorandum of Agreement-MOA is a written document that outlines a partnership between two or more parties to work together on a project or objective.
 
 MOAs can be binding legal documents that establish rights, obligations, and remedies, or they can be more informal partnership agreements. 
 MOAs are often used in business, and can be used for a variety of purposes, including:
@@ -25,7 +25,7 @@ Reciprocal exchange programs
  MOAs are more specific and tend to involve financial arrangements or institutional obligations. MOUs are more general and outline broad principles, and they don't create financial obligations.  
 
 
-###### Memorandums of Understanding-MOU is a type of agreement between two or more parties outlining the basic terms and intentions for collaboration on a project or initiative, typically not considered legally binding but serving as a formal document to document the agreed upon goals and responsibilities of each party involved
+## Memorandums of Understanding-MOU is a type of agreement between two or more parties outlining the basic terms and intentions for collaboration on a project or initiative, typically not considered legally binding but serving as a formal document to document the agreed upon goals and responsibilities of each party involved
 
 Purpose of outlining intentions:
 The main function of an MOU is to clearly define the scope of a potential partnership, collaboration, or joint activity, including roles, responsibilities, and desired outcomes. 
@@ -38,7 +38,7 @@ Timeframe for activities
 Communication protocols 
 Expected deliverables
    
-##### Master Service Agreement-MSA is a legal contract that establishes the fundamental terms and conditions between two parties for an ongoing business relationship. 
+## Master Service Agreement-MSA is a legal contract that establishes the fundamental terms and conditions between two parties for an ongoing business relationship. 
 outlining the expectations and responsibilities for current and future projects, essentially simplifying the negotiation process for subsequent contracts by setting the basic framework upfront.
 Purpose:
 To streamline future transactions by pre-defining key terms like payment schedules, confidentiality, delivery timelines, dispute resolution methods, and more, so parties don't have to renegotiate these aspects for every new project.
