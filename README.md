@@ -129,16 +129,16 @@ External confirmations: Confirmations with third parties, such as banks, custome
 Physical examination: Inspection of tangible assets, such as inventory, property, and plant
 Oral evidence: Information obtained from employees or management
 Analytical procedures: Comparison of financial statements, ratios, trends, and benchmarks to identify unusual fluctuations. 
+ 
+ + vendor assessment-a process that evaluates a company's external vendors and suppliers to ensure they meet the organization's needs and expectations
 
-### vendor assessment-a process that evaluates a company's external vendors and suppliers to ensure they meet the organization's needs and expectations
++ vendor selection- is a series of steps that organizations take to find third-party partners to meet their needs
 
-### vendor selection- is a series of steps that organizations take to find third-party partners to meet their needs
+ + Evidence of internal audits- is essentially, any information that demonstrates the organization's process of identifying, analyzing, and mitigating potential risks across various business areas.
 
-### Evidence of internal audits- is essentially, any information that demonstrates the organization's process of identifying, analyzing, and mitigating potential risks across various business areas.
++ A Independent Assessment- is a thorough analysis of a business or system to identify potential risks and recommend ways to mitigate them
 
-### A Independent Assessment- is a thorough analysis of a business or system to identify potential risks and recommend ways to mitigate them
-
-## Supply chain Analysis- is the process of evaluating a company's supply chain to identify areas for improvement and reduce costs. It involves collecting and analyzing data from multiple systems to gain insights into the procurement, processing, and distribution of goods. 
++ Supply chain Analysis- is the process of evaluating a company's supply chain to identify areas for improvement and reduce costs. It involves collecting and analyzing data from multiple systems to gain insights into the procurement, processing, and distribution of goods. 
 
 ## Due Diligence- A comprehensive assessment of a business, investment, or transaction to identify potential risks and make informed decisions. It can include reviewing a business's financial statements, assets, liabilities, and work processes. 
 Here are some examples of how due diligence and risk assessment are used in different contexts:Supply chain management
